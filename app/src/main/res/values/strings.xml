@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aula02AppAndroid</string>
+    <string name="digite_aqui">Digite aqui</string>
+    <string name="dar_boas_vindas">Dar boas vindas</string>
+    <string name="somar">Somar</string>
+    <string name="valor_2">Valor 2</string>
+    <string name="valor_1">Valor 1</string>
+</resources>
